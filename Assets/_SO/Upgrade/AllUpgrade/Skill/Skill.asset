@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b4cf43f8e47ff443ba8639d6236f648, type: 3}
+  m_Name: Skill
+  m_EditorClassIdentifier: 
+  upgradeName: 
+  packUpgrade:
+  - {fileID: 11400000, guid: 20ede51237392d34799c19324dc79419, type: 2}
+  - {fileID: 11400000, guid: 027413fa94d21f141beaacb8df2dd0df, type: 2}
+  - {fileID: 11400000, guid: ed329087fd9bac4478252a2ce334de86, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b4cf43f8e47ff443ba8639d6236f648, type: 3}
+  m_Name: AllRarity
+  m_EditorClassIdentifier: 
+  upgradeName: MaxHP
+  packUpgrade:
+  - {fileID: 11400000, guid: 241e08a9f27f1814bbf2dc60af51aa97, type: 2}
+  - {fileID: 11400000, guid: c206eacc519db4c498ad38182d35562a, type: 2}
+  - {fileID: 11400000, guid: eb30dddccf66c654fbe06dfe3dd2c46d, type: 2}
+  - {fileID: 11400000, guid: fd64a468ba824de498f181f0e104a08e, type: 2}
+  - {fileID: 11400000, guid: 4dc4f45ac998d6b45ad369b652e63f6f, type: 2}
+  - {fileID: 11400000, guid: d669aed43edf26c428bc84f9004b6903, type: 2}
